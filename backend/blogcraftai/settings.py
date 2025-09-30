@@ -184,6 +184,6 @@ LOGGING = {
     },
 }
 
-AI_PROVIDER_URL = os.getenv("AI_PROVIDER_URL", "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAtorpX3hHNDGEnKZqGa2eGiefEKl0kNSA")
+AI_PROVIDER_URL = os.getenv("AI_PROVIDER_URL", "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCtw_aX8nnUhv9SkazIvQoFvk81ENiY7U8")
 AI_PROVIDER_TIMEOUT = float(os.getenv("AI_PROVIDER_TIMEOUT", "10"))
 
